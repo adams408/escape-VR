@@ -7,12 +7,13 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
-    guid: dc15744705511ad4a82042f3fd754f54
+    guid: 9e7430fdd41a39147b641c0ee90c876b
   - enabled: 1
     path: Assets/Scenes/Volcano.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/GameOver.unity
-    guid: 9e7430fdd41a39147b641c0ee90c876b
+    path: Assets/Scenes/EndMenu.unity
+    guid: f520513aa1deb66428dcf17318568711
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8461e8f3216b5d448befdb1abb1b39da, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d6f9a56d633bc2941a5faf51d7fb0b49, type: 2}
